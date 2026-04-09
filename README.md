@@ -10,7 +10,7 @@ I care about more than working code — I care about clean architecture, real co
 
 - Architect and build enterprise-grade React apps from the ground up
 - Lead large-scale modernizations (e.g. Webpack 1→5, React 15→19) without breaking production
-- Integrate with complex backends — GraphQL, REST, Episerver, Tridion DXA
+- Integrate with complex backends — GraphQL, REST, Optimizely CMS (former Episerver), Tridion DXA
 - Eliminate technical debt systematically while shipping new features in parallel
 - Collaborate closely with designers, clients, QA, and backend teams
 
