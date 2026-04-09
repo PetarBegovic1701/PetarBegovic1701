@@ -1,22 +1,31 @@
 # Hi, I'm Petar 👋
 
-Senior Frontend Engineer with 8+ years of experience building scalable, high-performing web applications. I specialize in `React`, `TypeScript`, and `Next.js`, with deep experience integrating frontend systems into `.NET` and CMS-driven environments.
+---
 
-I care about more than working code — I care about clean architecture, real conversations with stakeholders, and systems that are easy to maintain long after I'm done with them.
+I've spent the last 8+ years doing the kind of frontend work that actually moves the needle - not just building UIs, but thinking through architecture, questioning requirements, and caring deeply about what ends up in users' hands.
+
+My home base is `React` and `TypeScript`, but I'm equally comfortable navigating complex `.NET` and `Node` backends, CMS platforms like Optimizely (former Episerver), or a tangled legacy codebase that nobody wants to touch. I've led migrations from `React 15 to 19` and `Webpack 1 to 5` in production systems without breaking a sweat - or a deploy.
+
+What sets me apart isn't just the technical range. It's that I ask the right questions and ship prototypes to get the "whole picture" fast. I communicate openly with everyone from backend devs to C-suite stakeholders, and treat ownership seriously. When something ships under my name, I want it to be something I'm proud of and that the end user has genuine use for it.
+I've been called easy to work with and hard to ignore in a technical discussion - I'll take that. I care deeply about the people on my team, not just the code we ship together. Team work makes the dream work,  whether that's collaboration with a designer about consistencies on the style guide, API optimizations with a backend collegue, helping out with testing strategies with the QA team, or mentoring a junior through their first big refactor, mediating a design vs. engineering tradeoff, or just being the person who makes a stressful sprint feel less chaotic, I show up fully.
+
+I've built and guided teams, managed client relationships across time zones, and learned that the best technical decisions almost always start with a good **conversation**.
+What I bring isn't just a strong technical foundation - it's the kind of seniority that shows up in how a team feels when things get hard. I've been the person who organizes the response when production breaks, who guides a teammate through a refactor they didn't think they could handle, and who keeps the conversation going with a client even when the news isn't great. I work hard to be someone people want in their corner.
 
 ---
 
-## What I do
+## What I bring to a team (tech wise)
 
-- Architect and build enterprise-grade React apps from the ground up
-- Lead large-scale modernizations (e.g. Webpack 1→5, React 15→19) without breaking production
-- Integrate with complex backends — GraphQL, REST, Optimizely CMS (former Episerver), Tridion DXA
-- Eliminate technical debt systematically while shipping new features in parallel
-- Collaborate closely with designers, clients, QA, and backend teams
+- Deep experience architecting scalable, maintainable React applications for high-traffic, enterprise-level platforms
+- A track record of modernizing complex legacy systems incrementally - keeping things stable while moving fast
+- Multi-currency, multi-site, and multi-timezone feature work at international scale
+- Strong collaboration habits - I've worked closely with designers, QA, backend engineers, and clients across time zones
+- A genuine drive to reduce technical debt and leave codebases better than I found them
+- Experience building email template frameworks, CMS-driven SSR apps, and RTL-ready frontend systems
 
 ---
 
-## Tech stack
+## Tech I work with, but I'm always open to adding more to the stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
@@ -33,14 +42,18 @@ I care about more than working code — I care about clean architecture, real co
 
 ## A bit about me
 
-- 📍 Based in Serbia
-- 💼 8+ years of professional frontend experience
-- 🌐 Worked across entertainment, healthcare, e-commerce, and marketing platforms
-- 🤔 I dig deep into the "why" behind every requirement before writing a line of code
-- 🗣️ English (fluent) · Serbian (native) · German (novice)
+- Based in Serbia - open to remote collaboration worldwide
+- 8+ years of professional frontend experience
+- Worked across entertainment, healthcare, e-commerce, and marketing platforms
+- Naturally talkative, solutions-oriented, and genuinely curious about the problems I'm solving
+- I dig deep into the "why" behind every requirement before writing a line of code
+- English (fluent) · Serbian (native) · German (novice)
 
 ---
 
-## Get in touch
+## Let's talk
+
+If you're working on something interesting - whether that's a product with a tough frontend challenge, a team that values quality and open communication, or a codebase that needs a thoughtful pair of hands - I'd genuinely love to hear about it.
+Drop me a line or connect - I'm always happy to have a conversation.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/petar-begovic/)
